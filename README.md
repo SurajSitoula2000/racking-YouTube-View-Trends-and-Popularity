@@ -45,3 +45,8 @@ streamlit run streamlit_app.py
 2. Integrate sentiment analysis from comments
 3. Deploy live via Streamlit Cloud or Hugging Face Spaces
 
+# Build by
+## 👨‍💻 Developed By
+
+**Suraj Sitoula**  
+[LinkedIn](https://www.linkedin.com/in/suraj-sitoula/) • [GitHub](https://github.com/SurajSitoula2000)  
